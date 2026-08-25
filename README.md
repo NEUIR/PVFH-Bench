@@ -196,7 +196,7 @@ PVFH-Bench/
 
 ## Data attribution and license
 
-PVFH-Bench is constructed from the MSCOCO 2014 validation set. The source images follow the [MSCOCO terms](https://cocodataset.org/#termsofuse) and are not included in this repository.
+PVFH-Bench is constructed from the MSCOCO 2014 validation set. The source images follow the [MSCOCO terms](https://cocodataset.org/#termsofuse).
 
 This project is released under the [MIT License](LICENSE).
 
